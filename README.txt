@@ -1,1 +1,1 @@
-### goodbye, world!
+$ rm -fr node_modules/
