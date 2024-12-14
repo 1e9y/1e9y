@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/1e9y/1e9y/commit/ae50b1bfacf77aeb9e2c1e5ae51fd7be6e5ed813\"><strong>a</strong>e50b1bfacf77aeb9e2c1e5ae51fd7be6e5ed813</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/1e9y/chalk/commit/ab343cc4aafc4c6e0fa28e79feec486ef432cd48\"><strong>ab</strong>343cc4aafc4c6e0fa28e79feec486ef432cd48</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/featurevisor-go/commit/c35889b0c3ee9d8493745a99c3e8c02b4e03e9b3\">c35889b</a>: chore: add .gitignore file",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/1e9y/codeforces/commit/82fddddead15cb7dc2c43b3d50499eb499fab6d5\">82fddd<strong>dead</strong>15cb7dc2c43b3d50499eb499fab6d5</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 23 times)\n2. feat: (used 20 times)\n3. chore: (used 17 times)\n4. commit (used 10 times)\n5. infra: (used 8 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/featurevisor-go/commit/d99fbaa3c60303f762b9c37e497d6fdf9d158904\">d99fbaa</a>\n- <a href=\"https://github.com/1e9y/featurevisor-go/commit/c35889b0c3ee9d8493745a99c3e8c02b4e03e9b3\">c35889b</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/1e9y/chalk\">1e9y/chalk</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/1e9y.github.io/commit/327268d16163454b68d498e35232343a5ae52e40\">327268d</a>\n- <a href=\"https://github.com/1e9y/adventofcode/commit/ed10616aecf9c33fd3afe8762cd4cac60d9fe0bc\">ed10616</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/1e9y.github.io/commit/0a6dcd1573db1a96ecf8df4aa90ed900542bbf30\">0a6dcd1</a>\n- <a href=\"https://github.com/1e9y/1e9y.github.io/commit/1016cc1e51db96966c0bb3dfdc489218a7624a47\">1016cc1</a>\n- <a href=\"https://github.com/1e9y/1e9y.github.io/commit/7d7bbce449211dd2b1362fa6d3c968d1d8f30c55\">7d7bbce</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/adventofcode/commit/46f9bac4d6622263b5ece7992c8ffaf39a22bb1b\">46f9bac</a>\n- <a href=\"https://github.com/1e9y/adventofcode/commit/925a18fde99aaabf5c0aebd65f99b4b207012e9f\">925a18f</a>\n- <a href=\"https://github.com/1e9y/adventofcode/commit/f8d840f19240bcd30ef3251dc2f52b40c2983750\">f8d840f</a>\n- <a href=\"https://github.com/1e9y/dotfiles/commit/50f37214d72bc8bcb29037bcc516ac10a83cd477\">50f3721</a>\n- <a href=\"https://github.com/1e9y/adventofcode/commit/af5f08a26c2f43a11244dd9f7e781ea42a07ea2a\">af5f08a</a>\n- <a href=\"https://github.com/1e9y/featurevisor-go/commit/d99fbaa3c60303f762b9c37e497d6fdf9d158904\">d99fbaa</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/codeforces/commit/9be8a09938ae35731e3aca484d6518b1c49ed325\">9be8a09</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
