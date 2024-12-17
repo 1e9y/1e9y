@@ -30,8 +30,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 23 times)\n2. feat: (used 20 times)\n3. chore: (used 17 times)\n4. commit (used 10 times)\n5. infra: (used 8 times)",
+    "desc": "My favorite word is \"chore:\".",
+    "body": "My favorite commit message words are:\n\n1. chore: (used 23 times)\n2. add (used 23 times)\n3. feat: (used 20 times)\n4. commit (used 10 times)\n5. infra: (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -86,8 +86,15 @@
   {
     "id": "oss-library-night-24",
     "tier": 0,
-    "desc": "I've participated in the [Opensource Library Night 24](https://events.yandex.ru/events/opensourcenight)!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/google/zx/pull/985\">#985</a>",
+    "desc": "I've participated in the <a href=\"https://events.yandex.ru/events/opensourcenight\">Opensource Library Night 24</a>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/google/zx/pull/985\">#985</a>\n- <a href=\"https://github.com/google/zx/pull/1001\">#1001</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/107\">#107</a>",
     "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/107\">#107</a>",
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   }
 ]
