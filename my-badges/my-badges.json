@@ -82,5 +82,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/1e9y/codeforces/commit/9be8a09938ae35731e3aca484d6518b1c49ed325\">9be8a09</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "oss-library-night-24",
+    "tier": 0,
+    "desc": "I've participated in the [Opensource Library Night 24](https://events.yandex.ru/events/opensourcenight)!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/google/zx/pull/985\">#985</a>",
+    "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
   }
 ]
