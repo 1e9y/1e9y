@@ -30,8 +30,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"chore:\".",
-    "body": "My favorite commit message words are:\n\n1. chore: (used 23 times)\n2. add (used 23 times)\n3. feat: (used 20 times)\n4. commit (used 10 times)\n5. infra: (used 8 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 23 times)\n2. commit (used 10 times)\n3. infra: (used 8 times)\n4. initial (used 8 times)\n5. update (used 7 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
