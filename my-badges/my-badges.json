@@ -35,13 +35,6 @@
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
@@ -96,5 +89,12 @@
     "desc": "I contributed to My Badges!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/107\">#107</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
